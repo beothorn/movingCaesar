@@ -24,5 +24,4 @@ B on position 1: 1 mod 3 is 1 so we use shift 1, which is C
 C on position 2: 2 mod 3 is 2 so we use shift 2, which is E
 D on position 3: 3 mod 3 is 0 so we use shift 0, which is D
 
-Thatisveryeasy!
-tictjvvftzebuz!
+[See it working!](beothorn.github.io/movingcaesar)
