@@ -15,9 +15,10 @@ This is a minor variation of the idea that is supposed to be stronger against fr
 "Moving Caesar" uses a variant shift depending on the letter position. It varies the shift in increments of 1 and a mod of n. 
 
 For example, given n = 3:
-
+```
 A B C D
 0 1 2 3
+```
 
 A on position 0: 0 mod 3 is 0 so we use shift 0, which is A
 B on position 1: 1 mod 3 is 1 so we use shift 1, which is C
