@@ -1,6 +1,6 @@
 # Moving Caesar cypher
 
-The (Caesar cipher)[https://en.wikipedia.org/wiki/Caesar_cipher] is a subtitution cypher that replaces each letter for another one given a shift amount on the alphabet.
+The [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is a subtitution cypher that replaces each letter for another one given a shift amount on the alphabet.
 
 So for a shift of 1 A becomes B, B becomes C and so on. It is really easy to read if you use a shift of one.
 
@@ -8,7 +8,7 @@ Uibu jt wfsz fbtz!
 or without spaces
 Uibujtwfszfbtz!
 
-This cypher is really weak against (frequency analysis)[https://en.wikipedia.org/wiki/Frequency_analysis]
+This cypher is really weak against [frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis)
 
 This is a minor variation of the idea that is supposed to be stronger against frequency analysis but still readable without too much mental effort.
 
